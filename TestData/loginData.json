@@ -1,0 +1,16 @@
+{
+    "validLoginData": {
+      "username": "admin",
+      "password": "admin"
+    },
+    "invalidLoginData": {
+      "username": "admin11",
+      "password": "admin11"
+    },
+
+    "keycloakdata":{
+      "keycloakusername": "bharath",
+      "keycloakpassword": "password"
+    }
+    
+  }

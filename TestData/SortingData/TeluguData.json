@@ -1,0 +1,25 @@
+[
+    {
+      "TaskSubject": "TELUGU",
+    "AcivityType": "Practice",
+    "Tag": 12,
+    "ActivityId": 15,
+    "Time": "01:00",
+    "Title": "కింద ఇచ్చిన పదాలను పట్టికలో సరైన చోట నింపండి",
+    "Textbox1":" అరక",
+    "Textbox2":"ఇల",
+    "Textbox3":"ఉమ",
+    "Textbox4":"అలక",
+    "Textbox5":"ఈగ",
+    "Textbox6":"ఊయల",
+    "Textbox7":"ఈత",
+    "Textbox8":"ఓడ",
+    "Basketname1":"హ్రస్వాలు",
+    "Basketname2":"దీర్ఘాలు",
+    "Instructions": "కింద ఇచ్చిన పదాలను హ్రస్వాలు దీర్ఘాలు వాటిని విభజించండి",
+    "BadScore": "చెడ్డ స్కోరు",
+    "AverageScore": "సగటు స్కోరు",
+    "GoodScore": "మంచి స్కోరు",
+    "VeryGoodScore": "చాలా మంచి స్కోరు"
+      }
+]

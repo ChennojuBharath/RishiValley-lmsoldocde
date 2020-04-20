@@ -1,0 +1,31 @@
+[
+    {
+      "TaskSubject": "TELUGU",
+    "AcivityType": "Practice",
+    "Tag": 12,
+    "ActivityId": 15,
+    "Time": "01:10",
+    "Title": "బహులైచ్ఛిక ప్రశ్నలు",
+    "Instructions": "సరైన జవాబు ని ఎంచుకోండి",
+    "Question1": "కింది పదాలలో చెట్టుకు సంబంధించిన పదాలు గుర్తించండి",
+    "Option1": "కళ్ళజోడు",
+    "Option2": "స్తంభం",
+    "Option3": "వాచీ",
+    "Option4": "పండ్లు  పూలు",
+    "Option5": "ఫ్యాను",
+    "Question2": "క్రింద నుండి పండ్లను ఎంచుకోండి",
+    "Question3": "సరైన చిత్రాన్ని ఎంచుకోండి",
+    "Question4": "పై నెలలో మొదటి రోజు,చివరి రొజు ఏ రోజు?",
+    "Option6": "ఆదివారం",
+    "Option7": "గురువారం,",
+    "Option8": "శుక్రవారం",
+    "Option9": "సోమవారం",
+    "Option10": "శనివారం",
+    "ActivityRole": "Author",
+    "BadScore": "చెడ్డ స్కోరు",
+    "AverageScore": "సగటు స్కోరు",
+    "GoodScore": "మంచి స్కోరు",
+    "VeryGoodScore": "చాలా మంచి స్కోరు",
+    "Subject":" Class 1 "
+      }
+]

@@ -1,0 +1,28 @@
+[
+    {
+      "TaskSubject": "TELUGU",
+    "AcivityType": "Practice",
+    "AcivityTypes":  "Assessment,Introduction",
+    "Tag": 12,
+    "ActivityId": 15,
+    "Time": "01:00",
+    "Title": "కింది పదాలకు అర్థాలను జతపరచండి",
+    "Description": "Student need to select one of the choice",
+    "Instructions": "All Questions need to be answers",
+    "Textbox1":"ఎల్లరు",
+    "Textbox2":"విశ్వం",
+    "Textbox3":"రవళించడం",
+    "Textbox4":"నర్తన గతి",
+    "Textbox5":"పాలపుంత",
+    "Textbox6":"నక్షత్రాల గుంపు",
+    "Textbox7":"నాట్యం చేసే విధానం",
+    "Textbox8":"అందరూ",
+    "Textbox9":"మోగడం",
+    "Textbox10":"ప్రపంచం",
+    "BadScore": "చెడ్డ స్కోరు",
+    "AverageScore": "సగటు స్కోరు",
+    "GoodScore": "మంచి స్కోరు",
+    "VeryGoodScore": "చాలా మంచి స్కోరు",
+    "ActivityRole": "Author"
+      }
+]
